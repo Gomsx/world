@@ -1,3 +1,3 @@
-module github.com/gomsx/world
+module github.com/gomsx/world/v2
 
 go 1.13
